@@ -4,7 +4,7 @@
 // @include     http://agar.io/
 // @version     2.2
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      http://google.com
 // ==/UserScript==
 
 Number.prototype.mod = function(n) {
