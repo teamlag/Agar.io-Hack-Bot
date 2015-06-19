@@ -3,7 +3,8 @@ The aim of the project is to create a bot that can play Agar.io
 
 Made By TygoW050
 
-To run the script, you need to install Greasemonkey / Tampermonkey:https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo in your browser. Then activate the script on the page http://agar.io/
+To run the script, you need to install Greasemonkey / Tampermonkey in your browser. Then activate the script on the page http://agar.io/
+URL for Tampermonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 Make sure to install both bot.user.js and launcher.user.js
 
